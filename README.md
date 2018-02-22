@@ -1,2 +1,1 @@
-# gradyhouston-bootstrap.github.io
-Bootstrap Portfolio
+# Bootstrap-Portfolio
